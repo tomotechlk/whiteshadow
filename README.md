@@ -6,6 +6,7 @@ The name "Whiteshadow" is an idea by Sajana Gunaratne (Grade-4 student, Kandy) a
 The team:
 1. Thiman De Silva - Student (Lead Intern Developer)
 2. Sajana Gunaratne - Python Student (Intern Developer)
+3. Rangana Gunathilaka - Mentor (Developer)
 
 
 Bibliography
